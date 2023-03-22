@@ -63,10 +63,11 @@ Generate two bar plots. Both plots should be identical and show the total number
 
 Create the first bar plot by using Pandas's DataFrame.plot() method.
 
+![image](https://user-images.githubusercontent.com/105513598/226959104-1f62bdc3-46aa-409c-8f11-7128b664a013.png)
 
 Create the second bar plot by using Matplotlib's pyplot methods.
 
-
+![image](https://user-images.githubusercontent.com/105513598/226959212-54d8c548-ba9b-4ff4-84ac-affe36672f9c.png)
 
 
 Generate two pie plots. Both plots should be identical and show the distribution of female or male mice in the study.
@@ -74,10 +75,11 @@ Generate two pie plots. Both plots should be identical and show the distribution
 
 Create the first pie plot by using both Pandas's DataFrame.plot().
 
+![image](https://user-images.githubusercontent.com/105513598/226959312-26983bfb-5fec-4e9e-98f9-60a82041a854.png)
 
 Create the second pie plot by using Matplotlib's pyplot methods.
 
-
+![image](https://user-images.githubusercontent.com/105513598/226959403-c665ae5d-59bc-4a34-894d-bc141c77fd2c.png)
 
 
 
@@ -104,7 +106,6 @@ Determine outliers by using the upper and lower bounds, and then print the resul
 Using Matplotlib, generate a box plot of the final tumor volume for all four treatment regimens. Highlight any potential outliers in the plot by changing their color and style.
 
 
-Hint: All four box plots should be within the same figure. Use this Matplotlib documentation page for help with changing the style of the outliers.
 
 # Create a Line Plot and a Scatter Plot
 
@@ -124,7 +125,7 @@ Calculate the correlation coefficient and linear regression model between mouse 
 
 Plot the linear regression model on top of the previous scatter plot.
 
-
+![image](https://user-images.githubusercontent.com/105513598/226959689-5c1fbd59-7e5a-4094-9a24-6b5b02067741.png)
 
 # Submit Your Final Analysis
 Review all the figures and tables that you generated in this assignment. Write at least three observations or inferences that can be made from the data. Include these observations at the top of your notebook.
